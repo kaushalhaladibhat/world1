@@ -1,8 +1,8 @@
 {
-  "name": "WorldSim 3D v5 — Indian Open World",
+  "name": "WorldSim 3D v5",
   "short_name": "WorldSim v5",
   "description": "Mobile-first lightweight open-world city sim (Pi-Lite).",
-  "start_url": "./WorldSim_3D_v5.html",
+  "start_url": "index.html",
   "scope": "./",
   "display": "fullscreen",
   "orientation": "landscape",
