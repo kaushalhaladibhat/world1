@@ -2,8 +2,8 @@
 const CACHE = 'worldsim-v5-cache-v1';
 const ASSETS = [
   './',
-  './WorldSim_3D_v5.html',
-  './manifest.json',
+  'index.html',
+  'manifest.json',
   'https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.min.js'
 ];
 
